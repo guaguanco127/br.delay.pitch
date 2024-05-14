@@ -1,11 +1,11 @@
-# Max/MSP Abstraction: br.delay.pitch.abs-1.0  
+# Max/MSP Abstraction: br.delay.pitch.abs.1.0  
    
 By Brian Riordan  
 [guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
   
-Repository for br.utility.stereo.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.delay.pitch.1.0](https://github.com/guaguanco127/br.delay.pitch.1.0)  
+Repository for br.delay.pitch, with all related files, can be found here: [https://github.com/guaguanco127/br.delay.pitch](https://github.com/guaguanco127/br.delay.pitch)  
 Additional programs can be found here: [https://github.com/guaguanco127/plugins](https://github.com/guaguanco127/plugins)
 
 These files were created with Max/MSP version 8.5.6. 
