@@ -1,4 +1,4 @@
-# Max/MSP Abstraction: br.delay.pitch.abs.1.0  
+# Max/MSP Abstraction: br.delay.pitch.abs.1.1  
    
 By Brian Riordan  
 [guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
@@ -14,7 +14,8 @@ These files were created with Max/MSP version 8.5.6.
 [About](#About)   
 [What is an abstraction?](#Abstraction)  
 [How To Install](#Install)  
-[How To Use](#Use) 
+[How To Use](#Use)  
+[Version History](#Version) 
  
  
 
@@ -66,7 +67,13 @@ The 6th inlet is the feedback. It takes a float between 0. and 0.99.
 
 The 7th inlet is the amount of dry and wet signal between 0. and 100. The default is 100.  
 
-Double click on the object and you can see inside of the object. This way you can study how it was built. 
+Double click on the object and you can see inside of the object. This way you can study how it was built.   
+
+
+## <a name="Version"></a>Version History   
+
+br.delay.pitch.abs.1.1 included a dc block into the feedback loop on 05-14-2024
+
     
 
 

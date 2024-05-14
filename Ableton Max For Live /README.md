@@ -1,11 +1,11 @@
-# Ableton Max for Live device: br.delay.pitch  
+# Ableton Max for Live device: br.delay.pitch.1.1  
    
 By Brian Riordan  
 [guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
   
-Repository for br.delay.pitch.1.0, with all related files, can be found here: [https://github.com/guaguanco127/br.delay.pitch](https://github.com/guaguanco127/br.delay.pitch)  
+Repository for br.delay.pitch, with all related files, can be found here: [https://github.com/guaguanco127/br.delay.pitch](https://github.com/guaguanco127/br.delay.pitch)  
 Additional programs can be found here: [https://github.com/guaguanco127/plugins](https://github.com/guaguanco127/plugins)
 
 These files were created with Max/MSP version 8.5.6. and RNBO 1.2.3
@@ -15,6 +15,8 @@ These files were created with Max/MSP version 8.5.6. and RNBO 1.2.3
 [About](#About)  
 [What is a Max for Live Device?](#M4L)  
 [How To Install](#Install)  
+[Version History](#Version)   
+  
 
 ## <a name="About"></a>About
 
@@ -51,7 +53,11 @@ Copy and paste br.delay.pitch.1.0.amxd into that folder
   
 4. Open Ableton Live. On the left-hand side, look for Max for Live > Max Audio Effect and then the name of this device.
 
-5. Either double click on the device, or drag/drop it onto the track where you wish to use it.  
+5. Either double click on the device, or drag/drop it onto the track where you wish to use it.    
+
+## <a name="Version"></a>Version History 
+
+br.delay.pitch.1.1 included a dc block into the feedback loop on 05-14-2024
     
 
 

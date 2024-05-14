@@ -19,7 +19,8 @@ These files were created with Max/MSP version 8.5.6.
 
 [About](#About)   
 [Ableton Max for Live Device](https://github.com/guaguanco127/br.delay.pitch/tree/main/Ableton%20Max%20For%20Live%20) To use inside of Ableton Suite   
-[Max/MSP Abstraction](https://github.com/guaguanco127/br.delay.pitch/tree/main/MaxMSP%20Abstraction) To use as an abstraction within Max/MSP   
+[Max/MSP Abstraction](https://github.com/guaguanco127/br.delay.pitch/tree/main/MaxMSP%20Abstraction) To use as an abstraction within Max/MSP  
+[Version History](#Version)      
 
 
 ## <a name="About"></a>About
@@ -38,5 +39,8 @@ Only works as an abstraction or a device. External objects and RNBO not availabl
 
 **Dry/Wet:** The amount of dry and wet signal between 0. and 100. The default is 100.  
 
+## <a name="Version"></a>Version History  
+
+Version 1.1 included a dc block into the feedback line
 
  
