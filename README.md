@@ -41,6 +41,6 @@ Only works as an abstraction or a device. External objects and RNBO not availabl
 
 ## <a name="Version"></a>Version History  
 
-Version 1.1 included a dc block into the feedback line
+Version 1.1 included a dc block into the feedback line on 05-14-2024
 
  
