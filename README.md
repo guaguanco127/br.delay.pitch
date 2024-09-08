@@ -27,6 +27,8 @@ These files were created with Max/MSP version 8.5.6.
 
 This is a delay-based Max/MSP abstraction, and Ableton Max for Live device that introduces a pitch-shifter in the delay line. A low pass and high pass filter is included to prevent extreme build up of high and low frequencies within the feedback line. 
 
+The delay line goes through a high pass filter set to 40 Hz, and a low pass set to 12,000 Hz. This is to prevent pitchshifted frequencies in the feedback line that from going too high or too low. 
+
 Only works as an abstraction or a device. External objects and RNBO not available yet.  
 
 **On/Off:** Turn the effect on or bypass
@@ -41,6 +43,6 @@ Only works as an abstraction or a device. External objects and RNBO not availabl
 
 ## <a name="Version"></a>Version History  
 
-Version 1.1 included a dc block into the feedback line on 05-14-2024
+Version 1.1 included a dc block into the feedback line on 05-14-2024. 
 
  
